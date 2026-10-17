@@ -22,8 +22,6 @@ recordings and any zips you have not sent yet stay where they are. This way ever
 build and the same bot. GoldCobra only takes matches that were recorded with the newest kit. Without an
 internet connection the kit still plays, so update the next time you are online.
 
-Releases are numbered (Kit 1, Kit 2, ...); [RELEASES.md](RELEASES.md) lists them, the newest first.
-
 ## What is inside, and what is not
 
 - **No game data.** You need your own *Mario Strikers Charged* disc image (Wii, USA, `R4QE01`).
