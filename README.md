@@ -14,7 +14,16 @@ kits for the people who play against it or record their matches for it. The bot'
 Unpack the zip anywhere (not into *Program Files*) and start the `.cmd` file. The kit's README explains
 the rest. Windows 10 or 11 (x64) is needed.
 
+## Which disc
+
+Use the European **Mario Strikers Charged Football, `R4QP01` revision 2**. GoldBot trains and is measured
+on it, so the bot plays its best there and your matches fit its training best. Revision 1 and the USA disc
+(`R4QE01`) work too; every recorded match names the disc it was played on.
+
 ## Updates
+
+Releases are named by the bot's version: GoldBot V5.2 is champion V5 in its third kit release, and V6.0
+will bring the next champion.
 
 Each kit checks this repository at every start. When a newer release is out, it downloads that release,
 checks its SHA-256, and replaces its own files in place. Your player name, disc image, controller settings,
@@ -24,9 +33,7 @@ internet connection the kit still plays, so update the next time you are online.
 
 ## What is inside, and what is not
 
-- **No game data.** You need your own *Mario Strikers Charged* disc image (Wii): the European one
-  (*Mario Strikers Charged Football*, `R4QP01`, revision 2 or 1; GoldBot trains on revision 2) or the USA
-  one (`R4QE01`). Every recorded match names the disc it was played on.
+- **No game data.** You need your own *Mario Strikers Charged* disc image (Wii); see "Which disc".
 - A build of Recharged, the PC port, with GoldBot's bridge and recorder. The port's own work is CC0. Its third-party
   notices are in the build's `LICENSES` folder. The reconstructed game code and the game's trademarks
   belong to their owners.
