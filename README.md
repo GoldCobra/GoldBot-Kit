@@ -24,7 +24,9 @@ internet connection the kit still plays, so update the next time you are online.
 
 ## What is inside, and what is not
 
-- **No game data.** You need your own *Mario Strikers Charged* disc image (Wii, USA, `R4QE01`).
+- **No game data.** You need your own *Mario Strikers Charged* disc image (Wii): the European one
+  (*Mario Strikers Charged Football*, `R4QP01`, revision 2 or 1; GoldBot trains on revision 2) or the USA
+  one (`R4QE01`). Every recorded match names the disc it was played on.
 - A build of Recharged, the PC port, with GoldBot's bridge and recorder. The port's own work is CC0. Its third-party
   notices are in the build's `LICENSES` folder. The reconstructed game code and the game's trademarks
   belong to their owners.
