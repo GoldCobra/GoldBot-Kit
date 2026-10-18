@@ -20,6 +20,12 @@ Use the European **Mario Strikers Charged Football, `R4QP01` revision 2**. GoldB
 on it, so the bot plays its best there and your matches fit its training best. Revision 1 and the USA disc
 (`R4QE01`) work too; every recorded match names the disc it was played on.
 
+## Play Z tricks
+
+Chips over the goalkeeper, chips off the wall beside him and self passes (Waluigi, Boo, Hammer Bro and
+Toad play their own chip again in the air) are allowed in competitive play and wanted here: GoldBot
+learns them from your matches. The kits' READMEs explain them.
+
 ## Updates
 
 Releases are named by the bot's version: GoldBot V5.2 is champion V5 in its third kit release, and V6.0
