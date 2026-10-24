@@ -8,7 +8,7 @@ kits for the people who play against it or record their matches for it. The bot'
 
 | Kit | What it is for | Start |
 |---|---|---|
-| [goldbot-kit.zip](https://github.com/GoldCobra/GoldBot-Kit/releases/latest/download/goldbot-kit.zip) | Play against GoldBot offline, in real time. The game opens at the captain select, with the bot's team already on its side, and comes back there after every match. Your matches are packed into one zip for GoldCobra. | `play-goldbot.cmd` |
+| [goldbot-kit.zip](https://github.com/GoldCobra/GoldBot-Kit/releases/latest/download/goldbot-kit.zip) | Play against GoldBot offline, in real time. The game opens at the captain select, with the bot's team already on its side (one of its twelve captains, in a fair random order), and comes back there after every match. Your matches are packed into one zip for GoldCobra. | `play-goldbot.cmd` |
 | [goldbot-demo-kit.zip](https://github.com/GoldCobra/GoldBot-Kit/releases/latest/download/goldbot-demo-kit.zip) | Record your own matches (alone against the CPU or against a friend). | `record-demos.cmd` |
 
 Unpack the zip anywhere (not into *Program Files*) and start the `.cmd` file. The kit's README explains
