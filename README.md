@@ -9,7 +9,7 @@ kits for the people who play against it or record their matches for it. The bot'
 | Kit | What it is for | Start |
 |---|---|---|
 | [goldbot-kit.zip](https://github.com/GoldCobra/GoldBot-Kit/releases/latest/download/goldbot-kit.zip) | Play against GoldBot offline, in real time, in your own Recharged with your own settings. The game opens at the captain select, with the bot's team already on its side (one of its twelve captains, in a fair random order); you pick the stadium of every match, and every stadium plays alike (Secure Stadium, Fast terrain, Thunder Island walls). It comes back there after every match. Your matches are packed into one zip for GoldCobra. | `play-goldbot.cmd` |
-| [goldbot-demo-kit.zip](https://github.com/GoldCobra/GoldBot-Kit/releases/latest/download/goldbot-demo-kit.zip) | Record your own matches (alone against the CPU or against a friend). | `record-demos.cmd` |
+| [goldbot-demo-kit.zip](https://github.com/GoldCobra/GoldBot-Kit/releases/latest/download/goldbot-demo-kit.zip) | Record your own matches against a friend on one PC. Matches alone against the CPU are kept but no longer train the bot: what beats the CPU does not beat people, so only matches between people and against GoldBot do. | `record-demos.cmd` |
 
 **GoldBot kit:** unpack the zip into your own Recharged folder, the one with `recharged.exe`. That puts
 `play-goldbot.cmd` beside `recharged.exe` and the folder `goldbot-kit` beside it. Set everything in
@@ -32,8 +32,8 @@ learns them from your matches. The kits' READMEs explain them.
 
 ## Updates
 
-Releases are named by the bot's version: GoldBot V11.1 is champion V11 in its second kit release, and
-V12.0 will bring the next champion.
+Releases are named by the bot's version: GoldBot V12.0 is champion V12 in its first kit release, V12.1
+would be its second, and V13.0 will bring the next champion.
 
 Each kit checks this repository at every start. When a newer release is out, it downloads that release,
 checks its SHA-256, and replaces its own files in place. Your player name, disc image, settings,
