@@ -32,15 +32,17 @@ learns them from your matches. The kits' READMEs explain them.
 
 ## Updates
 
-Releases are named by the bot's version: GoldBot V12.0 is champion V12 in its first kit release, V12.1
-would be its second, and V13.0 will bring the next champion.
+Releases are named by the bot's version: GoldBot V12.1 is champion V12 in its second kit release (the one
+for Recharged 1.1.5), and V13.0 will bring the next champion.
 
 Each kit checks this repository at every start. When a newer release is out, it downloads that release,
 checks its SHA-256, and replaces its own files in place. Your player name, disc image, settings,
 recordings and any zips you have not sent yet stay where they are. This way everyone plays the same game
 build and the same bot. The GoldBot kit takes a newer release only when it is made for the Recharged you
 have. When Recharged has a new release, the bot is brought to it first, and until then the kit says so
-(Recharged's update dialog has a *Later* button meanwhile). GoldCobra only takes matches that were
+(Recharged's update dialog has a *Later* button meanwhile). When the bot is on a newer Recharged than yours,
+the kit asks you to update Recharged first: its own update keeps the GoldBot kit in its folder, and the
+next start of `play-goldbot.cmd` takes the new kit by itself. GoldCobra only takes matches that were
 recorded with the newest kit. Without an internet connection the kit still plays, so update the next
 time you are online.
 
