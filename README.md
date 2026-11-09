@@ -32,8 +32,8 @@ learns them from your matches. The kits' READMEs explain them.
 
 ## Updates
 
-Releases are named by the bot's version: GoldBot V12.1 is champion V12 in its second kit release (the one
-for Recharged 1.1.5), and V13.0 will bring the next champion.
+Releases are named by the bot's version: GoldBot V12.2 is champion V12 in its third kit release (for
+Recharged 1.1.5, like V12.1), and V13.0 will bring the next champion.
 
 Each kit checks this repository at every start. When a newer release is out, it downloads that release,
 checks its SHA-256, and replaces its own files in place. Your player name, disc image, settings,
